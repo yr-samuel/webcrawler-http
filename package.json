@@ -1,0 +1,17 @@
+{
+  "name": "webcrawler-http",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yr-samuel/webcrawler-http.git",
+  "author": "Samuel Oliveira <samuel.aoliveira74@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsx watch main.ts",
+    "test": "jest --passWithNoTests"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
